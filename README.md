@@ -1,0 +1,1 @@
+This program contains a working model of an interpreter for the minimal Turing complete language called BF.Initially I thought to modularise it , but I felt 200 LOC along with comments wasn't very huge to deal with. But I too kind of beleive that the parser could have been in a different file.
